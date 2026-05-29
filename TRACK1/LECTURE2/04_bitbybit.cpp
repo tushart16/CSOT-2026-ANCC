@@ -1,4 +1,5 @@
 #include <bits/stdc++.h>
+#define int long long
 using namespace std;
 /*
 you can represent uniquely as a sum of power of 2's

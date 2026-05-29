@@ -13,8 +13,8 @@ int main() {
   // we narrow down our search space until the only point that is left in our
   // search space is the vertex
   while (r - l > 1e-6) {
-    int m1 = (2 * l + r) / 3;
-    int m2 = (l + 2 * r) / 3;
+    double m1 = (2 * l + r) / 3;
+    double m2 = (l + 2 * r) / 3;
     /*
         three cases
     ->f(m1)>f(m2): we can eliminate the range [m2,r] because [m2,r] lies in
@@ -36,5 +36,5 @@ int main() {
     }
   }
   // at the end, we have x=l as the vertex of the parabola!
-  cout << l << f(l) << endl;
+  cout << l << " " << f(l) << endl;
 }

@@ -46,12 +46,12 @@ int main() {
   while (low < high) {
     long long mid = (low + high) / 2;
     long long lhs = 0;
-    bool is_lhs_large_enough;
+    bool is_lhs_large_enough = false;
     // 5n operations
     for (int i = 0; i < n; i++) {
       lhs += (mid / t[i]);
       // it is possible that lhs exceeds 2*10^18 also,
-      if (lhs > 2e9) {
+      if (lhs >= target) {
         is_lhs_large_enough = true;
         break;
       }

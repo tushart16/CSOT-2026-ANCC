@@ -41,6 +41,8 @@ int main() {
     // we have the r as the rightmost index in the array such that sum of values
     // from l to r is <=X'
     max_length = max(max_length, r - l);
+    if (r > l)
+      current_sum -= v[l];
   }
   cout << max_length << endl; // this is our answer!
   return 0;
