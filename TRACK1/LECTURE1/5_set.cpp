@@ -36,7 +36,6 @@ int main() {
   // printing distinct numbers in the vector
   // 10^5 inserts, 10^6, 10^6 searches
   // 5th element
-
   auto it = s1.begin();
   for (int i = 0; i < 4; i++)
     it++;

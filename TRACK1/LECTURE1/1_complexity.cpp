@@ -14,5 +14,9 @@ int main() {
       }
     }
   }
+  // i=0-> j=1, j=2....i=n-1 : n-1 times
+  // i-1-> j=2,3....n-1: n-2 times
+  // n-1+n-2+n-3...1=n*(n-1)/2
   cout << count << endl;
+  // 10^8 atomic operations per second ,
 }
