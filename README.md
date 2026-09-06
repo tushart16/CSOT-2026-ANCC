@@ -35,9 +35,8 @@ Primarily targeted at **1st and 2nd year students**, but everyone is welcome —
 | :--- | :--- | :---: |
 | **1 · Basics of CP** | STL, Math, Binary Search, Two Pointers, Greedy, Sorting | 2 |
 | **2 · Number Theory** | GCD/LCM, Modular Arithmetic, Primes, Sieve | 2 |
-| **3 · Dynamic Programming** | DP fundamentals, Bitmask DP, advanced problems | 2–3 |
-| **4 · Graphs & Trees** | BFS, DFS, Dijkstra's Algorithm, DSU, Trees, LCA | 4–5 |
-| **5 · Segment Trees** | Segment Trees, Fenwick Trees | 2–3 |
+| **3 · Dynamic Programming** | DP fundamentals, Bitmask DP, advanced problems | 2 |
+| **4 · Graphs & Trees** | BFS, DFS, Dijkstra's Algorithm, DSU, Trees, LCA | 4 |
 
 ## Tentative Schedule
 
@@ -60,26 +59,16 @@ Primarily targeted at **1st and 2nd year students**, but everyone is welcome —
 | # | Date | Day | Link |
 | :--- | :--- | :--- | :---: |
 | Lecture 5 | Jun 5 | Friday | [Watch](https://youtu.be/QMJG6FNPGNg?si=G6YWRPsjbzX6_vsh) |
-| Lecture 6 | Jun 7 | Sunday | _TBA_ |
-| Lecture 7 | Jun 8 | Monday | _TBA_ |
+| Lecture 6 | Jun 8 | Monday | [Watch](https://www.youtube.com/watch?v=AJOI4Vs5DgA) |
 
 #### Module 4 — Graphs & Trees
 
 | # | Date | Day | Link |
 | :--- | :--- | :--- | :---: |
-| Lecture 8 | Jun 13 | Friday | _TBA_ |
-| Lecture 9 | Jun 14 | Saturday | _TBA_ |
-| Lecture 10 | Jun 17 | Tuesday | _TBA_ |
-| Lecture 11 | Jun 20 | Friday | _TBA_ |
-| Lecture 12 | Jun 21 | Saturday | _TBA_ |
-
-#### Module 5 — Segment Trees & Fenwick Trees
-
-| # | Date | Day | Link |
-| :--- | :--- | :--- | :---: |
-| Lecture 13 | Jun 27 | Friday | _TBA_ |
-| Lecture 14 | Jun 28 | Saturday | _TBA_ |
-| Lecture 15 | Jun 29 | Sunday | _TBA_ |
+| Lecture 7 | Jun 18 | Thursday | [Watch](https://youtu.be/1KFWk5A0Xyw?si=iW0zMGlfTWbEfaMK) |
+| Lecture 8 | Jun 20 | Saturday | [Watch](https://youtu.be/QR69WTR6IsY?si=0yuhp7oTa43EUinS) |
+| Lecture 9 | Jun 22 | Monday | [Watch](https://youtu.be/-HDNDy3Ph1c?si=Xtt7YnbaIyBun8NX) |
+| Lecture 10 | Jul 2 | Thursday | [Watch](https://youtu.be/f9SQfbvFpaA?si=qSRAprvSeU6218sH) |
 
 ## Contests
 
@@ -88,15 +77,13 @@ Contests are standalone rounds, not tied to any single module.
 | # | Date | Day | Link |
 | :--- | :--- | :--- | :---: |
 | Contest 1 | Jun 3 | Wednesday | [Register](https://codeforces.com/contestInvitation/41d32f1183a7588f13ee09811294f0dd04d471cf) |
-| Contest 2 | Jun 10 | Wednesday | _TBA_ |
-| Contest 3 | Jun 24 | Tuesday | _TBA_ |
-| Grand Finale | Jul 2 | Wednesday | _TBA_ |
+| Contest 2 | Jun 14 | Sunday | [Register](https://codeforces.com/contestInvitation/076be8ebc406e08adf16b4384fced8101fae17ed) |
+| Contest 3 | Jul 5 | Sunday | [Register](https://codeforces.com/contestInvitation/a6d809ecce29cc412170c768e559bf996247b7c8) |
 
 **How contests work**
 
-- **4 contests** total throughout the series
+- **3 contests** total throughout the series
 - Contests 1, 2 & 3 are topic-specific, held after the relevant module(s)
-- **Contest 4 (Grand Finale)** on Jul 2 is a comprehensive all-round contest covering everything
 - Each contest features a mix of easy, medium, and hard problems
 
 ## Course Materials
@@ -110,9 +97,11 @@ Lecture code, reference notes, and practice problem sets are organised by module
 | Number Theory | Lecture 1 | [Lecture Notes](MODULE%202%20%E2%80%94%20NUMBER%20THEORY/LECTURE1) |
 | Number Theory | Lecture 2 | [Lecture Notes](MODULE%202%20%E2%80%94%20NUMBER%20THEORY/LECTURE2) |
 | Dynamic Programming | Lecture 1 | [Slides](MODULE%203%20%E2%80%94%20DYNAMIC%20PROGRAMMING/LECTURE1) |
+| Dynamic Programming | Lecture 2 | [Lecture Notes](MODULE%203%20%E2%80%94%20DYNAMIC%20PROGRAMMING/LECTURE2) |
+| Graphs & Trees | Lecture 1 | [Lecture Notes](MODULE%204%20%E2%80%94%20GRAPHS%20%26%20TREES/LECTURE1) |
+| Graphs & Trees | Lecture 2 | [Slides](MODULE%204%20%E2%80%94%20GRAPHS%20%26%20TREES/LECTURE2) |
+| Graphs & Trees | Lecture 3 | [Slides](MODULE%204%20%E2%80%94%20GRAPHS%20%26%20TREES/LECTURE3) |
 
-> [!NOTE]
-> More materials will be added here as each module is covered.
 
 ## How It Works
 
